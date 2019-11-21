@@ -14,7 +14,9 @@ To run:
 ~$ open index.html
 
 # Authors:
-Martin Crabtree & Oscar Ochoa Cerrato
+Martin Crabtree (https://github.com/TheMartinCrabtree)
+& 
+Oscar Ochoa Cerrato (https://github.com/ozkr8a)
 
 
 # Acknowledgments
