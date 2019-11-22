@@ -112,7 +112,8 @@ h1 {
     grid-column-end: auto;
     padding: 10px;
     background-color: #112C23;
-    color: #FCCB1A
+    color: #FCCB1A;
+    font-size: 6px;
 }
 
 .menu-item1:hover { 
