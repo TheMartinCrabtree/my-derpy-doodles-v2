@@ -7,9 +7,4 @@ document.addEventListener("DOMContentLoaded", () => {
     const doodleDrawer = new DrawDoodle();
     const doodleControls = new DoodleController();
 
-    let backBtn = document.getElementById('back-btn')
-    backBtn.addEventListener('click', e => {
-        console.log("Clicking back button")
-        new UserLogin
-    })
 })

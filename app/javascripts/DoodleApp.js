@@ -1,4 +1,4 @@
-class DoodleApp {
+    class DoodleApp {
     //Launches Doodle App
     constructor() {
         new UserLogin();
