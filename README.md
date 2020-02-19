@@ -2,6 +2,9 @@
 
 Derpy Doodles is a social drawing web application that allows you to create your own “derpy” drawing, and share it with your friends. The application is developed using HTML/JavaScript (ES6) in the frontend, and a Ruby on Rails API/PostgreSQL backend. Drawings are created in a HTML5 canvas element, with controls and logic handled using javascript.  The development of Derpy Doodles is the result of a collaborative effort between Martin Crabtree and Oscar Ochoa Cerrato.
 
+# Demo
+https://www.youtube.com/watch?v=j7LcOMdK27o&feature=youtu.be
+
 # Created using:
 
 * Ruby v.2.6.1
